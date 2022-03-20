@@ -1,1 +1,14 @@
-SQL injection UNION attack, determining the number of columns returned by the query
+## SQL injection UNION attack, determining the number of columns returned by the query
+### INFO DEL LAB 
+El lab tiene una vulnerabilidad sql injection en el filtro de categorias de productos.  
+Objetivo: Determinar el numero de columnas y el las filas que tienen valor NULL..  
+En este caso tratamos con una sentenciaa UNION de sql.
+
+### ANALISIS  
+
+
+
+### RESOLUCION   
+```sh  
+
+```
